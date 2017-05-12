@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> Basic Coding Rules </title>
+Keep Trying
 </head>
 <body>
 <h1>
